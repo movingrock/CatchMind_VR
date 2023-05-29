@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Create-with-VR-Starter-Scene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Lobby.unity
+    guid: 8102da2735a3b9d46a80aedab6982038
+  - enabled: 1
+    path: Assets/Scenes/Scene 1.unity
+    guid: 9648753495669cb439790087416c019f
+  - enabled: 1
+    path: Assets/Scenes/Scene 2.unity
+    guid: 3a04183e97731ac46bc375b5b6039219
+  - enabled: 1
+    path: Assets/Scenes/Scene 3.unity
+    guid: 343d115d9a7df1342a5af97839c8e88a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
       type: 2}
